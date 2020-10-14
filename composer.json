@@ -1,18 +1,18 @@
 {
-    "name": "laravel-enso/dynamic-methods",
+    "name": "genealogiawebsite/dynamic-methods",
     "description": "Dynamic methods, relations or accessors for models",
     "keywords": [
-        "laravel-enso",
+        "genealogiawebsite",
         "dynamic-methods"
     ],
-    "homepage": "https://github.com/laravel-enso/dynamic-methods",
+    "homepage": "https://github.com/genealogiawebsite/dynamic-methods",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
             "name": "Adrian Ocneanu",
             "email": "aocneanu@gmail.com",
-            "homepage": "https://laravel-enso.com",
+            "homepage": "https://genealogiawebsite.com",
             "role": "Developer"
         }
     ],
